@@ -1,0 +1,18 @@
+h1  {
+    padding:10px;
+    margin-right:50px;
+    display:inline-block;
+    text-decoration:none ;
+    font-family:"Helvetica",sans-serif;
+    }
+.column {
+    margin-left: 60px;
+    width:300px;
+    float:right
+}
+a { 
+    padding:10px; 
+    text-decoration:none ;
+    font-family:"Helvetica",sans-serif;
+    color:#121212BF
+}
